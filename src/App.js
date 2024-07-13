@@ -1,11 +1,11 @@
-//Navbar Branch
-import Boiler from "./components/boiler";
+import Navbar from "./components/Navbar";
 
+//Navbar Branch
 function App() {
   return (
  <>
  <h1>Recipe App</h1>
- <Boiler/>
+    <Navbar />
  </>
   );
 }
