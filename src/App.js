@@ -1,10 +1,10 @@
-import Boiler from "./components/boiler";
+import Footer from "./components/Footer";
 
 function App() {
   return (
- <>
- <h1>Recipe App</h1>
- </>
+<div>
+ <Footer />
+</div>
   );
 }
 
