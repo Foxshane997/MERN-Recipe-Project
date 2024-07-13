@@ -1,4 +1,5 @@
 import Boiler from "./components/boiler";
+import { Route, BrowserRouter as Router, Routes } from 'react-router-dom'
 
 function App() {
   return (
