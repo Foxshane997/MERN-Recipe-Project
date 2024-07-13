@@ -1,4 +1,5 @@
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 //Navbar Branch
 function App() {
@@ -6,6 +7,7 @@ function App() {
  <>
  <h1>Recipe App</h1>
     <Navbar />
+    <Footer />
  </>
   );
 }
